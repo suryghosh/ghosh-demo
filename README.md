@@ -1,8 +1,8 @@
 # ghosh-demo
 this is my first git repository
 <br>
-Author-surya narayan ghosh
+one of my first projects that i made in
 <br>
-i am a student of IIITk
+my college and gonna post it in git 
 <br>
-this is awesome
+for first time
